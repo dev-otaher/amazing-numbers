@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-classes-java.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-reports-tests.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-test-results.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-tmp.main" target="11" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Fields_and_methods_in_enum-Danger_levels.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Fields_and_methods_in_enum-Robot_control.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Fields_and_methods_in_enum-Theory.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Hiding_and_overriding-Correctly_overridden_methods.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Hiding_and_overriding-Publications.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Hiding_and_overriding-Theory.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Hiding_and_overriding-Which_methods_cannot_be_overridden.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Hiding_and_overriding-Which_methods_will_be_overridden.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Polymorphism-Find_mistake.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Polymorphism-Notification.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Polymorphism-Publication_and_its_subclasses.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Polymorphism-The_time_of_overloading.main" target="11" />
+      <module name="Amazing_Numbers.Topics-Polymorphism-Theory.main" target="11" />
+      <module name="Amazing_Numbers.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
